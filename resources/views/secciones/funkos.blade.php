@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.layout_funkos')
 
 @section('content')
 <h2 class="text-center mb-4 mt-4">Catálogo de Funkos</h2>
